@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "001",
+    "titulo": "Es Epico",
+    "artista": "Canserbero",
+    "anio": "2012",
+    "archivo": "001.mp3"
+  },
+  {
+    "id": "002",
+    "titulo": "Feriado",
+    "artista": "Rawayana",
+    "anio": "2023",
+    "archivo": "002.mp3"
+  },
+  {
+    "id": "003",
+    "titulo": "Veneka",
+    "artista": "Rawayana ft Akapellah",
+    "anio": "2024",
+    "archivo": "003.mp3"
+  },
+  {
+    "id": "004",
+    "titulo": "no llames lo mio nuestro",
+    "artista": "Joaquina",
+    "anio": "2025",
+    "archivo": "004.mp3"
+  },
+  {
+    "id": "005",
+    "titulo": "Caballo Viejo",
+    "artista": "Simon Diaz",
+    "anio": "1980",
+    "archivo": "005.mp3"
+  },
+  {
+    "id": "006",
+    "titulo": "Mercedes",
+    "artista": "Simon Diaz",
+    "anio": "1980",
+    "archivo": "006.mp3"
+  },
+  {
+    "id": "007",
+    "titulo": "El becerrito (La Vaca Mariposa)",
+    "artista": "Simon Diaz",
+    "anio": "1976",
+    "archivo": "007.mp3"
+  },
+  {
+    "id": "008",
+    "titulo": "El Alcaraván",
+    "artista": "Simon Diaz",
+    "anio": "1974",
+    "archivo": "008.mp3"
+  },
+  {
+    "id": "009",
+    "titulo": "Mi Querencia",
+    "artista": "Simon Diaz",
+    "anio": "1974",
+    "archivo": "009.mp3"
+  },
+  {
+    "id": "010",
+    "titulo": "Tonada de Luna Llena",
+    "artista": "Simon Diaz",
+    "anio": "1974",
+    "archivo": "010.mp3"
+  },
+  {
+    "id": "011",
+    "titulo": "Dueño de nada",
+    "artista": "Jose Luis Rodriguez El Puma",
+    "anio": "1982",
+    "archivo": "011.mp3"
+  },
+  {
+    "id": "012",
+    "titulo": "Pavo Real",
+    "artista": "Jose Luis Rodriguez El Puma",
+    "anio": "1980",
+    "archivo": "012.mp3"
+  },
+  {
+    "id": "013",
+    "titulo": "Besame",
+    "artista": "Ricardo Montaner",
+    "anio": "2001 ",
+    "archivo": "013.mp3"
+  },
+  {
+    "id": "014",
+    "titulo": "Tan Enamorados",
+    "artista": "Ricardo Montaner",
+    "anio": "1988",
+    "archivo": "014.mp3"
+  },
+  {
+    "id": "015",
+    "titulo": "Tu de que vas",
+    "artista": "Franco de Vita",
+    "anio": "2004",
+    "archivo": "015.mp3"
+  },
+  {
+    "id": "016",
+    "titulo": "Un Buen Perdedor",
+    "artista": "Franco de Vita",
+    "anio": "1984",
+    "archivo": "016.mp3"
+  },
+  {
+    "id": "017",
+    "titulo": "Te Amo",
+    "artista": "Franco de Vita",
+    "anio": "1988",
+    "archivo": "017.mp3"
+  },
+  {
+    "id": "018",
+    "titulo": "Te Regalo",
+    "artista": "Carlos Baute",
+    "anio": "2005",
+    "archivo": "018.mp3"
+  },
+  {
+    "id": "019",
+    "titulo": "Colgando en tus manos",
+    "artista": "Carlos Baute ft Marta Sanchez",
+    "anio": "2008",
+    "archivo": "019.mp3"
+  },
+  {
+    "id": "020",
+    "titulo": "Llorarás",
+    "artista": "Oscar D'León, la dimension latina",
+    "anio": "1974",
+    "archivo": "020.mp3"
+  },  
+  {
+    "id": "021",
+    "titulo": "Palabras del alma",
+    "artista": "Ilan chester",
+    "anio": "1987",
+    "archivo": "021.mp3"
+  }, 
+  {
+    "id": "022",
+    "titulo": "Un querer como el tuyo",
+    "artista": "Ilan chester",
+    "anio": "1990",
+    "archivo": "022.mp3"
+  },      
+  {
+    "id": "023",
+    "titulo": "Locos de Amor",
+    "artista": "Yordano",
+    "anio": "1988",
+    "archivo": "023.mp3"
+  },  
+  {
+    "id": "024",
+    "titulo": "Manantial del Corazón",
+    "artista": "Yordano",
+    "anio": "1984",
+    "archivo": "024.mp3"
+  },  
+  {
+    "id": "025",
+    "titulo": "Sé como duele",
+    "artista": "Karina",
+    "anio": "1985",
+    "archivo": "025.mp3"
+  },  
+  {
+    "id": "026",
+    "titulo": "Tesoro mio",
+    "artista": "Kiara y Guillermo Dávila",
+    "anio": "1990",
+    "archivo": "026.mp3"
+  }, 
+  {
+    "id": "027",
+    "titulo": "Cuando se acaba el amor",
+    "artista": "Guillermo Dávila",
+    "anio": "1993",
+    "archivo": "027.mp3"
+  },  
+  {
+    "id": "028",
+    "titulo": "Romance quinceañero",
+    "artista": "Luis Silva",
+    "anio": "1993",
+    "archivo": "028.mp3"
+  },  
+  {
+    "id": "029",
+    "titulo": "Como no voy a decirlo",
+    "artista": "Luis Silva",
+    "anio": "1992",
+    "archivo": "029.mp3"
+  },  
+  {
+    "id": "030",
+    "titulo": "Enfurecida",
+    "artista": "Luis Silva",
+    "anio": "1994",
+    "archivo": "030.mp3"
+  },
+  {
+    "id": "031",
+    "titulo": "Ojos Malignos",
+    "artista": "Soledad Bravo",
+    "anio": "1994",
+    "archivo": "031.mp3"
+  },
+  {
+    "id": "032",
+    "titulo": "Maria Antonia",
+    "artista": "Gualberto Ibarreto",
+    "anio": "1975",
+    "archivo": "032.mp3"
+  },  
+  {
+    "id": "033",
+    "titulo": "Cuerpo Cobarde. La Pea",
+    "artista": "Gualberto Ibarreto",
+    "anio": "1973",
+    "archivo": "033.mp3"
+  },  
+  {
+    "id": "034",
+    "titulo": "A Usted",
+    "artista": "Reynaldo Armas",
+    "anio": "1980",
+    "archivo": "034.mp3"
+  },  
+  {
+    "id": "035",
+    "titulo": "La Muerte del Rucio Moro",
+    "artista": "Reynaldo Armas",
+    "anio": "1987",
+    "archivo": "035.mp3"
+  },  
+  {
+    "id": "036",
+    "titulo": "Mi Pais",
+    "artista": "Maria Teresa Chacin",
+    "anio": "1983 ",
+    "archivo": "036.mp3"
+  },
+  {
+    "id": "037",
+    "titulo": "Maldito Amor",
+    "artista": "Mirla Castellanos",
+    "anio": "1981",
+    "archivo": "037.mp3"
+  },  
+  {
+    "id": "038",
+    "titulo": "El Cocotero",
+    "artista": "Lila Morillo",
+    "anio": "1961",
+    "archivo": "038.mp3"
+  },  
+  {
+    "id": "039",
+    "titulo": "La vida es chiquita",
+    "artista": "Lila Morillo",
+    "anio": "1968",
+    "archivo": "039.mp3"
+  },  
+  {
+    "id": "040",
+    "titulo": "Lamento Llanero",
+    "artista": "Mirtha Perez",
+    "anio": "1972",
+    "archivo": "040.mp3"
+  },  
+  {
+    "id": "041",
+    "titulo": "Porque Será",
+    "artista": "Rudy La Scala",
+    "anio": "1991",
+    "archivo": "041.mp3"
+  },  
+  {
+    "id": "042",
+    "titulo": "Mi Vida Eres Tu",
+    "artista": "Rudy La Scala",
+    "anio": "1985",
+    "archivo": "042.mp3"
+  },  
+  {
+    "id": "043",
+    "titulo": "Canción Para ti",
+    "artista": "Frank Quintero",
+    "anio": "1980",
+    "archivo": "043.mp3"
+  },  
+  {
+    "id": "044",
+    "titulo": "Amantes de luna llena",
+    "artista": "Frank Quintero",
+    "anio": "2000",
+    "archivo": "044.mp3"
+  },  
+  {
+    "id": "045",
+    "titulo": "Me estoy enamorando de ti",
+    "artista": "Frank Quintero",
+    "anio": "1987",
+    "archivo": "045.mp3"
+  },  
+  {
+    "id": "046",
+    "titulo": "Pídeme",
+    "artista": "Guaco",
+    "anio": "2005",
+    "archivo": "046.mp3"
+  },
+  {
+    "id": "047",
+    "titulo": "Lo eres todo",
+    "artista": "Guaco",
+    "anio": "2010",
+    "archivo": "047.mp3"
+  },
+  {
+    "id": "048",
+    "titulo": "Eres Más",
+    "artista": "Guaco",
+    "anio": "2009",
+    "archivo": "048.mp3"
+  },  
+  {
+    "id": "049",
+    "titulo": "Libera tu mente",
+    "artista": "Trino Mora",
+    "anio": "1972",
+    "archivo": "049.mp3"
+  },  
+  {
+    "id": "050",
+    "titulo": "Limón Limonero",
+    "artista": "Henry Stephen",
+    "anio": "1968",
+    "archivo": "050.mp3"
+  },  
+  {
+    "id": "051",
+    "titulo": "En Carne Viva",
+    "artista": "Scarlet Linares",
+    "anio": "2004",
+    "archivo": "051.mp3"
+  },  
+  {
+    "id": "052",
+    "titulo": "Valiente",
+    "artista": "Scarlet Linares",
+    "anio": "2007",
+    "archivo": "052.mp3"
+  },
+  {
+    "id": "053",
+    "titulo": "El Malquerido",
+    "artista": "Felipe Pirela",
+    "anio": "1964",
+    "archivo": "053.mp3"
+  },
+  {
+    "id": "054",
+    "titulo": "Entre tu amor y mi amor",
+    "artista": "Felipe Pirela",
+    "anio": "1964",
+    "archivo": "054.mp3"
+  },  
+  {
+    "id": "055",
+    "titulo": "Sombras nada más",
+    "artista": "Felipe Pirela",
+    "anio": "1966",
+    "archivo": "055.mp3"
+  },
+  {
+    "id": "056",
+    "titulo": "Traicionera",
+    "artista": "Pastor López",
+    "anio": "1977",
+    "archivo": "056.mp3"
+  },  
+  {
+    "id": "057",
+    "titulo": "Golpe con golpe",
+    "artista": "Pastor López",
+    "anio": "1978",
+    "archivo": "057.mp3"
+  },  
+  {
+    "id": "058",
+    "titulo": "Reggaetón con otro tumbao",
+    "artista": "Pastor López",
+    "anio": "2008",
+    "archivo": "058.mp3"
+  },
+  {
+    "id": "059",
+    "titulo": "Tan Solo Quiero",
+    "artista": "Jorge Luis Chacín",
+    "anio": "2014",
+    "archivo": "059.mp3"
+  },
+  {
+    "id": "060",
+    "titulo": "Si usted la viera",
+    "artista": "Jorge Luis Chacín",
+    "anio": "2000",
+    "archivo": "060.mp3"
+  },
+  {
+    "id": "061",
+    "titulo": "Barlovento",
+    "artista": "Aldemaro Romero",
+    "anio": "1955",
+    "archivo": "061.mp3"
+  },
+  {
+    "id": "062",
+    "titulo": "Ojos Color de los Pozos",    
+    "artista": "Rummy Olivo",
+    "anio": "1994",
+    "archivo": "062.mp3"
+  },  
+  {
+    "id": "063",
+    "titulo": "La Flor de Zaraza",
+    "artista": "Rummy Olivo",
+    "anio": "1997",
+    "archivo": "063.mp3"
+  },  
+  {
+    "id": "064",
+    "titulo": "A Dormir Juntitos",
+    "artista": "Liz y Eddy Herrera",
+    "anio": "2005",
+    "archivo": "064.mp3"
+  },  
+  {
+    "id": "065",
+    "titulo": "Zúmbalo",
+    "artista": "Liz, Los Melódicos",
+    "anio": "1990",
+    "archivo": "065.mp3"
+  },  
+  {
+    "id": "066",
+    "titulo": "Originales",
+    "artista": "3  Dueños",
+    "anio": "2005",
+    "archivo": "066.mp3"
+  },  
+  {
+    "id": "067",
+    "titulo": "Fiera Salvaje",
+    "artista": "3 Dueños",
+    "anio": "2004",
+    "archivo": "067.mp3"
+  },  
+  {
+    "id": "068",
+    "titulo": "Arenita Playita",
+    "artista": "Cuarto Poder ft Eska",
+    "anio": "2010",
+    "archivo": "068.mp3"
+  },  
+  {
+    "id": "069",
+    "titulo": "Cuando hay droga hay dinero",
+    "artista": "Guerrilla Seca, Reke",
+    "anio": "2002",
+    "archivo": "069.mp3"
+  },  
+  {
+    "id": "070",
+    "titulo": "Cafuné",
+    "artista": "MIcro TDH",
+    "anio": "2017",
+    "archivo": "070.mp3"
+  },  
+  {
+    "id": "071",
+    "titulo": "Besame sin sentir",
+    "artista": "MIcro TDH",
+    "anio": "2016",
+    "archivo": "071.mp3"
+  },  
+  {
+    "id": "072",
+    "titulo": "Mentirosa",
+    "artista": "Tecupae",
+    "anio": "2006",
+    "archivo": "072.mp3"
+  },  
+  {
+    "id": "073",
+    "titulo": "Y voy a amarte",
+    "artista": "Tecupae",
+    "anio": "2004",
+    "archivo": "073.mp3"
+  },  
+  {
+    "id": "074",
+    "titulo": "Mi Corazón",
+    "artista": "Liz, Los Melódicos",
+    "anio": "1994",
+    "archivo": "074.mp3"
+  },  
+  {
+    "id": "075",
+    "titulo": "Ay Amor",
+    "artista": "Liz, Los Melódicos",
+    "anio": "1996",
+    "archivo": "075.mp3"
+  },  
+  {
+    "id": "076",
+    "titulo": "Sigue tu camino",
+    "artista": "La Dimensión Latina",
+    "anio": "1975",
+    "archivo": "076.mp3"
+  },  
+  {
+    "id": "077",
+    "titulo": "Pensando en ti",
+    "artista": "La Dimensión Latina",
+    "anio": "1972",
+    "archivo": "077.mp3"
+  },  
+  {
+    "id": "078",
+    "titulo": "La casa de Fernando",
+    "artista": "Billos Caracas Boys",
+    "anio": "1976",
+    "archivo": "078.mp3"
+  },  
+  {
+    "id": "079",
+    "titulo": "Apagame la vela",
+    "artista": "Billos Caracas Boys",
+    "anio": "1968",
+    "archivo": "079.mp3"
+  },  
+  {
+    "id": "080",
+    "titulo": "Te juro que te amo",
+    "artista": "Los Terricolas",
+    "anio": "1972",
+    "archivo": "080.mp3"
+  },  
+  {
+    "id": "081",
+    "titulo": "Llorarás",
+    "artista": "Los Terricolas",
+    "anio": "1972",
+    "archivo": "081.mp3"
+  },  
+  {
+    "id": "082",
+    "titulo": "Te doy mi amor",
+    "artista": "Bacanos",
+    "anio": "2005",
+    "archivo": "082.mp3"
+  },  
+  {
+    "id": "083",
+    "titulo": "Sin querer",
+    "artista": "Bacanos",
+    "anio": "2003",
+    "archivo": "083.mp3"
+  }, 
+  {
+    "id": "084",
+    "titulo": "Sin Rencor",
+    "artista": "Gran Coquivacoa",
+    "anio": "1980",
+    "archivo": "084.mp3"
+  },
+  {
+    "id": "085",
+    "titulo": "Gaita Onomatopéyica",
+    "artista": "Gran Coquivacoa",
+    "anio": "1983",
+    "archivo": "085.mp3"
+  },
+  {
+    "id": "086",
+    "titulo": "Mi Ranchito",
+    "artista": "Cardenales del Éxito",
+    "anio": "1993",
+    "archivo": "086.mp3"
+  },  
+  {
+    "id": "087",
+    "titulo": "Son mis deseos",
+    "artista": "Cardenales del Éxito",
+    "anio": "1981",
+    "archivo": "087.mp3"
+  },  
+  {
+    "id": "088",
+    "titulo": "Me liberé",
+    "artista": "Mermelada Bunch",
+    "anio": "2002",
+    "archivo": "088.mp3"
+  },  
+  {
+    "id": "089",
+    "titulo": "Comando Borracho",
+    "artista": "Mermelada Bunch",
+    "anio": "2002",
+    "archivo": "089.mp3"
+  },  
+  {
+    "id": "090",
+    "titulo": "Una casita bella para ti",
+    "artista": "Rafael Pollo Brito",
+    "anio": "2005",
+    "archivo": "090.mp3"
+  },  
+  {
+    "id": "091",
+    "titulo": "Allá cayó",
+    "artista": "Desorden Público",
+    "anio": "1997",
+    "archivo": "091.mp3"
+  },  
+  {
+    "id": "092",
+    "titulo": "Vampiro",
+    "artista": "Zapato 3",
+    "anio": "1995",
+    "archivo": "092.mp3"
+  },  
+  {
+    "id": "093",
+    "titulo": "El Último polvo",
+    "artista": "Caramelos de Cianuro",
+    "anio": "2002",
+    "archivo": "093.mp3"
+  },  
+  {
+    "id": "094",
+    "titulo": "Sanitarios",
+    "artista": "Caramelos de Cianuro",
+    "anio": "2002",
+    "archivo": "094.mp3"
+  },  
+  {
+    "id": "095",
+    "titulo": "Verónica",
+    "artista": "Caramelos de Cianuro",
+    "anio": "2000",
+    "archivo": "095.mp3"
+  },  
+  {
+    "id": "096",
+    "titulo": "Mentiras",
+    "artista": "Los Amigos Invisibles",
+    "anio": "2009",
+    "archivo": "096.mp3"
+  },  
+  {
+    "id": "097",
+    "titulo": "La que me gusta",
+    "artista": "Los Amigos Invisibles",
+    "anio": "2013",
+    "archivo": "097.mp3"
+  },  
+  {
+    "id": "098",
+    "titulo": "Sin Ti",
+    "artista": "King Changó",
+    "anio": "2000",
+    "archivo": "098.mp3"
+  },  
+  {
+    "id": "099",
+    "titulo": "Carpe Diem",
+    "artista": "Viniloversus, Tessa la",
+    "anio": "2019",
+    "archivo": "099.mp3"
+  },  
+  {
+    "id": "100",
+    "titulo": "Dos Secretos",
+    "artista": "Viniloversus",
+    "anio": "2008",
+    "archivo": "100.mp3"
+  },  
+  {
+    "id": "101",
+    "titulo": "Juega bien tus cartas",
+    "artista": "Viniloversus",
+    "anio": "2009",
+    "archivo": "101.mp3"
+  },  
+  {
+    "id": "102",
+    "titulo": "El Hacha",
+    "artista": "Tambor Urbano",
+    "anio": "1997",
+    "archivo": "102.mp3"
+  },  
+  {
+    "id": "103",
+    "titulo": "Juana Polinaria /Como Loco/ Funche",
+    "artista": "Tambor Urbano",
+    "anio": "1995",
+    "archivo": "103.mp3"
+  },  
+  {
+    "id": "104",
+    "titulo": "Cumpleaños Feliz",
+    "artista": "Tambor Urbano",
+    "anio": "1997",
+    "archivo": "104.mp3"
+  },  
+  {
+    "id": "105",
+    "titulo": "te lo advertí",
+    "artista": "Los Mesoneros",
+    "anio": "2018",
+    "archivo": "105.mp3"
+  },  
+  {
+    "id": "106",
+    "titulo": "Nuestro Año",
+    "artista": "Los Mesoneros, Caloncho",
+    "anio": "2024",
+    "archivo": "106.mp3"
+  },  
+  {
+    "id": "107",
+    "titulo": "Algo Distinto",
+    "artista": "Rawayana",
+    "anio": "2011",
+    "archivo": "107.mp3"
+  },  
+  {
+    "id": "108",
+    "titulo": "Vocabulario Básico",
+    "artista": "Rawayana",
+    "anio": "2013",
+    "archivo": "108.mp3"
+  },  
+  {
+    "id": "109",
+    "titulo": "High",
+    "artista": "Rawayana ft Apache",
+    "anio": "2016",
+    "archivo": "109.mp3"
+  },  
+  {
+    "id": "110",
+    "titulo": "Welcome to el sur",
+    "artista": "Rawayana",
+    "anio": "2021",
+    "archivo": "110.mp3"
+  },  
+  {
+    "id": "111",
+    "titulo": "Binikini",
+    "artista": "Rawayana ft Danny Ocean",
+    "anio": "2023",
+    "archivo": "111.mp3"
+  },  
+  {
+    "id": "112",
+    "titulo": "Ingles en miami",
+    "artista": "Rawayana ft Manuel Turizo",
+    "anio": "2026",
+    "archivo": "112.mp3"
+  },  
+  {
+    "id": "113",
+    "titulo": "Lo mejor, lo peor",
+    "artista": "OKills",
+    "anio": "2015",
+    "archivo": "113.mp3"
+  },  
+  {
+    "id": "114",
+    "titulo": "Radio Capital",
+    "artista": "La Vida Boheme",
+    "anio": "2010",
+    "archivo": "114.mp3"
+  },  
+  {
+    "id": "115",
+    "titulo": "la Vida Mejor",
+    "artista": "La Vida Boheme",
+    "anio": "2013",
+    "archivo": "115.mp3"
+  },  
+  {
+    "id": "116",
+    "titulo": "Aunque sea poco",
+    "artista": "Voz Veis",
+    "anio": "2003",
+    "archivo": "116.mp3"
+  },  
+  {
+    "id":"117",
+    "titulo": "El Farolito",
+    "artista": "Voz Veis",
+    "anio": "2004",
+    "archivo": "117.mp3"
+  },
+  {
+    "id":"118",
+    "titulo": "Cosita Rica",
+    "artista": "Voz Veis",
+    "anio": "2003",
+    "archivo": "118.mp3"
+  },
+  {
+    "id":"119",
+    "titulo": "Donde andabas tú",
+    "artista": "SanLuis",
+    "anio": "2011",
+    "archivo": "119.mp3"
+  },  
+  {
+    "id":"120",
+    "titulo": "Se Acabó",
+    "artista": "SanLuis ft Chino y Nacho",
+    "anio": "2015",
+    "archivo": "120.mp3"
+  },
+  {
+    "id":"121",
+    "titulo": "Niña Bonita",
+    "artista": "Chino y Nacho",
+    "anio": "2009",
+    "archivo": "121.mp3"
+  },
+  {
+    "id":"122",
+    "titulo": "Virgen",
+    "artista": "Los Adolescentes",
+    "anio": "2001",
+    "archivo": "122.mp3"
+  }, 
+  {
+    "id":"123",
+    "titulo": "Persona Ideal - Me tengo que ir",
+    "artista": "Los Adolescentes",
+    "anio": "1996",
+    "archivo": "123.mp3"
+  }, 
+  {
+    "id":"124",
+    "titulo": "Anhelo",
+    "artista": "Los Adolescentes",
+    "anio": "1994",
+    "archivo": "124.mp3"
+  },
+  {
+    "id":"125",
+    "titulo": "Aquel Lugar",
+    "artista": "Los Adolescentes",
+    "anio": "2005",
+    "archivo": "125.mp3"
+  },
+  {
+    "id":"126",
+    "titulo": "Una Vez Mas",
+    "artista": "Calle Ciega",
+    "anio": "2005",
+    "archivo": "126.mp3"
+  },
+  {
+    "id":"127",
+    "titulo": "Solo te quiero amar",
+    "artista": "Calle Ciega",
+    "anio": "1998",
+    "archivo": "127.mp3"
+  },
+  {
+    "id":"128",
+    "titulo": "Mi Cachorrita",
+    "artista": "Calle Ciega",
+    "anio": "2005",
+    "archivo": "128.mp3"
+  },
+  {
+    "id":"129",
+    "titulo": "Tu y Yo",
+    "artista": "Calle Ciega",
+    "anio": "2006",
+    "archivo": "129.mp3"
+  },
+  {
+    "id":"130",
+    "titulo": "De sol a sol",
+    "artista": "Salserin",
+    "anio": "1996",
+    "archivo": "130.mp3"
+  }, 
+  {
+    "id":"131",
+    "titulo": "Ella fue",
+    "artista": "Caibo",
+    "anio": "2012",
+    "archivo": "131.mp3"
+  }, 
+  {
+    "id":"132",
+    "titulo": "Te llevo en mi corazon",
+    "artista": "Caibo ft Nacho",
+    "anio": "2015",
+    "archivo": "132.mp3"
+  }, 
+  {
+    "id":"133",
+    "titulo": "Corazon Abierto",
+    "artista": "Victor Muñoz",
+    "anio": "2011",
+    "archivo": "133.mp3"
+  }, 
+  {
+    "id":"134",
+    "titulo": "Tu Guardian",
+    "artista": "Victor Muñoz",
+    "anio": "2009",
+    "archivo": "134.mp3"
+  },
+  {
+    "id":"135",
+    "titulo": "Tu la vas a perder",
+    "artista": "Los Darts",
+    "anio": "1966",
+    "archivo": "135.mp3"
+  },
+  {
+    "id":"136",
+    "titulo": "Si estas triste",
+    "artista": "1967",
+    "anio": "2009",
+    "archivo": "136.mp3"
+  }, 
+  {
+    "id":"137",
+    "titulo": "Noches de media luna",
+    "artista": "Diveana",
+    "anio": "1993",
+    "archivo": "137.mp3"
+  }, 
+  {
+    "id":"138",
+    "titulo": "Tus Ojos",
+    "artista": "Diveana",
+    "anio": "1990",
+    "archivo": "138.mp3"
+  },
+  {
+    "id":"139",
+    "titulo": "Junto a tu corazon",
+    "artista": "Miguel Moly",
+    "anio": "1992",
+    "archivo": "139.mp3"
+  },
+  {
+    "id":"140",
+    "titulo": "Marejada",
+    "artista": "Miguel Moly",
+    "anio": "2000",
+    "archivo": "140.mp3"
+  }, 
+  {
+    "id":"141",
+    "titulo": "Dime que pasa",
+    "artista": "Victor Drija",
+    "anio": "2011",
+    "archivo": "141.mp3"
+  },
+  {
+    "id":"142",
+    "titulo": "Un Dos Tres",
+    "artista": "Victor Drija",
+    "anio": "2010",
+    "archivo": "142.mp3"
+  },
+  {
+    "id":"143",
+    "titulo": "Piensa en mi",
+    "artista": "Jonathan Moly",
+    "anio": "2013",
+    "archivo": "143.mp3"
+  }, 
+  {
+    "id":"144",
+    "titulo": "Sayonara",
+    "artista": "Jonathan Moly ft Jerry Rivera",
+    "anio": "2016",
+    "archivo": "144.mp3"
+  },
+  {
+    "id":"145",
+    "titulo": "Noches de Fantasia",
+    "artista": "Roberto Antonio",
+    "anio": "1988",
+    "archivo": "145.mp3"
+  }, 
+  {
+    "id":"146",
+    "titulo": "Jeremias 17-5",
+    "artista": "Canserbero",
+    "anio": "2012",
+    "archivo": "146.mp3"
+  },
+  {
+    "id":"147",
+    "titulo": "Maquiavelico",
+    "artista": "Canserbero",
+    "anio": "2013",
+    "archivo": "147.mp3"
+  }, 
+  {
+    "id":"148",
+    "titulo": "Como Mario",
+    "artista": "Akapellah",
+    "anio": "2018",
+    "archivo": "148.mp3"
+  },
+  {
+    "id":"149",
+    "titulo": "Milki",
+    "artista": "Akapellah",
+    "anio": "2016",
+    "archivo": "149.mp3"
+  },
+  {
+    "id":"150",
+    "titulo": "Ponmela en el aire",
+    "artista": "Apache y Canserbero",
+    "anio": "2013",
+    "archivo": "150.mp3"
+  }, 
+  {
+    "id":"151",
+    "titulo": "Stop",
+    "artista": "Apache y Canserbero",
+    "anio": "2013",
+    "archivo": "151.mp3"
+  },
+  {
+    "id":"152",
+    "titulo": "Amparito",
+    "artista": "Maracaibo 15",
+    "anio": "1977",
+    "archivo": "152.mp3"
+  }, 
+  {
+    "id":"153",
+    "titulo": "Viejo año",
+    "artista": "Maracaibo 15",
+    "anio": "1982",
+    "archivo": "153.mp3"
+  }, 
+  {
+    "id":"154",
+    "titulo": "Venga un abrazo",
+    "artista": "Maracaibo 15",
+    "anio": "1985",
+    "archivo": "154.mp3"
+  }, 
+  {
+    "id":"155",
+    "titulo": "Amigo",
+    "artista": "Maracaibo 15",
+    "anio": "1988",
+    "archivo": "155.mp3"
+  }, 
+  {
+    "id":"156",
+    "titulo": "Feliz cumpleaños",
+    "artista": "Emilio Arvelo",
+    "anio": "1964",
+    "archivo": "156.mp3"
+  }, 
+  {
+    "id":"157",
+    "titulo": "Cinco pa las doce",
+    "artista": "Nestor Zavarce",
+    "anio": "1963",
+    "archivo": "157.mp3"
+  }, 
+  {
+    "id":"158",
+    "titulo": "Sin Ti",
+    "artista": "Rawayana, La Vida Boheme, Willy Rodriguez, Mcklopedia",
+    "anio": "2018",
+    "archivo": "158.mp3"
+  }, 
+  {
+    "id":"159",
+    "titulo": "La sabia escuela",
+    "artista": "Akapellah, Canserbero y Lil Supa",
+    "anio": "2024",
+    "archivo": "159.mp3"
+  }, 
+  {
+    "id":"160",
+    "titulo": "Luz",
+    "artista": "Lil supa",
+    "anio": "2017",
+    "archivo": "160.mp3"
+  }, 
+  {
+    "id":"161",
+    "titulo": "Mi casita",
+    "artista": "Motherflowers",
+    "anio": "2025",
+    "archivo": "161.mp3"
+  }, 
+  {
+    "id":"162",
+    "titulo": "Quien pudiera?",
+    "artista": "Cardellino, Irepelusa, Çantamarta, Veztalone, Comida Para Llevar",
+    "anio": "2023",
+    "archivo": "162.mp3"
+  }, 
+  {
+    "id":"163",
+    "titulo": "CAMINAAANDO",
+    "artista": "Rawayana, Irepelusa, Comida Para Llevar, Veztalone, Los Hermanos Química",
+    "anio": "2022",
+    "archivo": "163.mp3"
+  }, 
+  {
+    "id":"164",
+    "titulo": "Me Rehúso",
+    "artista": "Danny Ocean",
+    "anio": "2016",
+    "archivo": "164.mp3"
+  }, 
+  {
+    "id":"165",
+    "titulo": "Fuera del mercado",
+    "artista": "Danny Ocean",
+    "anio": "2022",
+    "archivo": "165.mp3"
+  }, 
+  {
+    "id":"166",
+    "titulo": "Corazon",
+    "artista": "Danny Ocean",
+    "anio": "2025",
+    "archivo": "166.mp3"
+  }, 
+  {
+    "id":"167",
+    "titulo": "Ojos Marrones",
+    "artista": "Lasso",
+    "anio": "2022",
+    "archivo": "167.mp3"
+  }, 
+  {
+    "id":"168",
+    "titulo": "Te veo",
+    "artista": "Lasso",
+    "anio": "2015",
+    "archivo": "168.mp3"
+  }, 
+  {
+    "id":"169",
+    "titulo": "Me lo merezco",
+    "artista": "Elena Rose",
+    "anio": "2024",
+    "archivo": "169.mp3"
+  }, 
+  {
+    "id":"170",
+    "titulo": "Caracas en el 2000",
+    "artista": "Elena Rose, Danny Ocean, Jerri Di",
+    "anio": "2023",
+    "archivo": "170.mp3"
+  }, 
+  {
+    "id":"171",
+    "titulo": "Samaná",
+    "artista": "Mau y Ricky, Danny Ocean, Yorghaki",
+    "anio": "2025",
+    "archivo": "171.mp3"
+  }, 
+  {
+    "id":"172",
+    "titulo": "Hennessy",
+    "artista": "Big Soto ft Neutro Shorty",
+    "anio": "2019",
+    "archivo": "172.mp3"
+  }, 
+  {
+    "id":"173",
+    "titulo": "Grosero",
+    "artista": "Big soto",
+    "anio": "2018",
+    "archivo": "173.mp3"
+  }, 
+  {
+    "id":"174",
+    "titulo": "Bonita",
+    "artista": "Jeeiph",
+    "anio": "2020",
+    "archivo": "174.mp3"
+  }, 
+  {
+    "id":"175",
+    "titulo": "Rabia",
+    "artista": "Joaquina",
+    "anio": "2022",
+    "archivo": "175.mp3"
+  }, 
+  {
+    "id":"176",
+    "titulo": "Escaoar de mi",
+    "artista": "Joaquina",
+    "anio": "2024",
+    "archivo": "176.mp3"
+  }, 
+  {
+    "id":"177",
+    "titulo": "Bad Boy",
+    "artista": "Neutro Shorty",
+    "anio": "2018",
+    "archivo": "177.mp3"
+  }, 
+  {
+    "id":"178",
+    "titulo": "Soy yo",
+    "artista": "Neutro Shorty",
+    "anio": "2017",
+    "archivo": "178.mp3"
+  }, 
+  {
+    "id":"179",
+    "titulo": "Idilio",
+    "artista": "Neutro Shorty ft Oscar D Leon",
+    "anio": "2026",
+    "archivo": "179.mp3"
+  }, 
+  {
+    "id":"180",
+    "titulo": "Olé",
+    "artista": "Comida Para Llevar, Veztalone, Tayko, Irepelusa",
+    "anio": "2020",
+    "archivo": "180.mp3"
+  }, 
+  {
+    "id":"181",
+    "titulo": "Ando buscando",
+    "artista": "Mr Brian",
+    "anio": "2004",
+    "archivo": "181.mp3"
+  }, 
+  {
+    "id":"182",
+    "titulo": "Uno y uno es igual a tres",
+    "artista": "Jeremias",
+    "anio": "2006",
+    "archivo": "182.mp3"
+  }, 
+  {
+    "id":"183",
+    "titulo": "La cita",
+    "artista": "Jeremias",
+    "anio": "2003",
+    "archivo": "183.mp3"
+  }, 
+  {
+    "id":"184",
+    "titulo": "Moliendo cafe",
+    "artista": "Hugo Blanco",
+    "anio": "1961",
+    "archivo": "184.mp3"
+  }, 
+  {
+    "id":"185",
+    "titulo": "El poeta",
+    "artista": "Chino y Nacho",
+    "anio": "2011",
+    "archivo": "185.mp3"
+  }, 
+  {
+    "id":"186",
+    "titulo": "Mi cuarto",
+    "artista": "Jerry Di",
+    "anio": "2020",
+    "archivo": "186.mp3"
+  }, 
+  {
+    "id":"187",
+    "titulo": "Tekken",
+    "artista": "Adso Alejandro",
+    "anio": "2017",
+    "archivo": "187.mp3"
+  }, 
+  {
+    "id":"188",
+    "titulo": "Muerto en choroni",
+    "artista": "Circo Urbano",
+    "anio": "2003",
+    "archivo": "188.mp3"
+  }, 
+  {
+    "id":"189",
+    "titulo": "Venezuela",
+    "artista": "Luis Silva",
+    "anio": "1998",
+    "archivo": "189.mp3"
+  }, 
+  {
+    "id":"190",
+    "titulo": "Solo por ti",
+    "artista": "Nelson Arrieta ft Guaco",
+    "anio": "2015",
+    "archivo": "190.mp3"
+  }, 
+  {
+    "id":"191",
+    "titulo": "Besas tan bien",
+    "artista": "Nelson Arrieta",
+    "anio": "2017",
+    "archivo": "191.mp3"
+  } 
+
+                 
+  
+]

@@ -1,0 +1,160 @@
+body{
+
+    margin:0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#202124;
+
+    color:white;
+
+}
+
+.contenedor{
+
+    max-width:900px;
+
+    margin:auto;
+
+    text-align:center;
+
+    padding:40px;
+
+}
+
+#qr{
+
+    width:320px;
+
+    height:320px;
+
+    background:white;
+
+    color:black;
+
+    margin:auto;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:40px;
+
+    border-radius:10px;
+
+}
+
+button{
+
+    margin-top:20px;
+
+    padding:15px 35px;
+
+    font-size:18px;
+
+    cursor:pointer;
+
+}
+
+#informacion{
+
+    margin-top:30px;
+    text-align:center;
+}
+
+#tarjetaAnio{
+
+    display:inline-block;
+
+    background:#FFD700;
+
+    color:#111;
+
+    padding:18px 45px;
+
+    border-radius:18px;
+
+    border:5px solid #ffffff;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.35);
+
+    margin-bottom:25px;
+
+}
+
+#anio{
+
+    font-size:72px;
+
+    font-weight:bold;
+
+    letter-spacing:3px;
+
+}
+
+#titulo{
+
+    font-size:38px;
+
+    font-weight:bold;
+
+    color:white;
+
+    margin:10px 0;
+
+}
+
+#artista{
+
+    font-size:26px;
+
+    color:#d8d8d8;
+
+    margin-top:8px;
+
+}
+
+@keyframes revelar{
+
+    0%{
+        transform:scale(.6);
+        opacity:0;
+    }
+
+    70%{
+        transform:scale(1.08);
+    }
+
+    100%{
+        transform:scale(1);
+        opacity:1;
+    }
+
+}
+
+.revelado{
+
+    animation:revelar .45s ease;
+
+}
+@keyframes aparecer{
+
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
+
+.animacionTexto{
+
+    animation:aparecer .45s ease;
+
+}

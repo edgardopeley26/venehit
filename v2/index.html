@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>VENEHIT</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="contenedor">
+
+    <h1>🇻🇪 VENEHIT</h1>
+
+    <p>Escanea el código QR con tu teléfono</p>
+
+    <div id="qr">
+        QR
+    </div>
+
+    <p id="contador">
+        Canción 0 de 0
+    </p>
+
+    <button id="revelar">
+        👁️ Revelar información
+    </button>
+
+    <div id="informacion">
+
+    <div id="tarjetaAnio">
+        <span id="anio"></span>
+    </div>
+
+    <h2 id="titulo">?????</h2>
+
+    <p id="artista"></p>
+
+    </div>  
+
+    <button id="siguiente">
+    ➡️ Siguiente canción
+</button>
+
+<button id="nuevaPartida" style="display:none;">
+    🔄 Nueva partida
+</button>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
