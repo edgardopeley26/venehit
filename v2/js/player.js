@@ -18,7 +18,7 @@ fetch("../canciones.json")
 
     }
 
-    audio.src = "https://raw.githubusercontent.com/edgardopeley26/venehit-audios/main/" + cancion.archivo;
+    audio.src = "https://edgardopeley26.github.io/venehit-audios/" + cancion.archivo;
 
     play.onclick = async () => {
 
