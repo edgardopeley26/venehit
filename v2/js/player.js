@@ -8,7 +8,7 @@ fetch("../canciones.json")
 .then(res => res.json())
 .then(canciones => {
 
-    const cancion = canciones.find(c => c.id === id);
+    const cancion = canciones.find(c => String(c.id) === String(id));
 
     if(!cancion){
 
