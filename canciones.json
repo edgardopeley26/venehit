@@ -415,8 +415,8 @@
   {
     "id": "060",
     "titulo": "Si usted la viera",
-    "artista": "Jorge Luis Chacín",
-    "anio": "2000",
+    "artista": "Jorge Luis Chacín, Guaco",
+    "anio": "1998",
     "archivo": "060.mp3"
   },
   {
@@ -947,8 +947,8 @@
   {
     "id":"136",
     "titulo": "Si estas triste",
-    "artista": "1967",
-    "anio": "2009",
+    "artista": "Los Darts",
+    "anio": "1967",
     "archivo": "136.mp3"
   }, 
   {
@@ -981,9 +981,9 @@
   }, 
   {
     "id":"141",
-    "titulo": "Dime que pasa",
-    "artista": "Victor Drija",
-    "anio": "2011",
+    "titulo": "Anhelo en la lluvia",
+    "artista": "Los Pelaos",
+    "anio": "2008",
     "archivo": "141.mp3"
   },
   {
@@ -1226,7 +1226,7 @@
   }, 
   {
     "id":"176",
-    "titulo": "Escaoar de mi",
+    "titulo": "Escapar de mi",
     "artista": "Joaquina",
     "anio": "2024",
     "archivo": "176.mp3"
