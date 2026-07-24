@@ -1342,7 +1342,63 @@
     "artista": "Guaco",
     "anio": "1991",
     "archivo": "192.mp3"
-  }  
+  },
+  {
+    "id":"193",
+    "titulo": "Musica de paz",
+    "artista": "PapaShanty SaundSystem",
+    "anio": "2005",
+    "archivo": "193.mp3"
+  },
+  {
+    "id":"194",
+    "titulo": "El latin lover",
+    "artista": "Malanga ft Ruben Blades",
+    "anio": "2002",
+    "archivo": "194.mp3"
+  },
+  {
+    "id":"195",
+    "titulo": "El Negrito Fullero",
+    "artista": "Cardenales del Éxito",
+    "anio": "1972",
+    "archivo": "195.mp3"
+  },
+  {
+    "id":"196",
+    "titulo": "La Vinontinto",
+    "artista": "Caramelos de Cianuro",
+    "anio": "2004",
+    "archivo": "196.mp3"
+  },
+  {
+    "id":"197",
+    "titulo": "Ponerte en cuatro",
+    "artista": "Los Amigos Invisibles",
+    "anio": "1998",
+    "archivo": "197.mp3"
+  },
+  {
+    "id":"198",
+    "titulo": "El Marciano",
+    "artista": "Calle Ciega",
+    "anio": "2000",
+    "archivo": "198.mp3"
+  },
+  {
+    "id":"199",
+    "titulo": "La Grey Zuliana",
+    "artista": "Ricardo Aguirre, El Saladillo",
+    "anio": "1968",
+    "archivo": "199.mp3"
+  },
+  {
+    "id":"200",
+    "titulo": "capaz (merenguetón)",
+    "artista": "Alleh, Yorghaki",
+    "anio": "2024",
+    "archivo": "200.mp3"
+  }
 
                  
   
