@@ -7,53 +7,29 @@
 
 <title>VENEHIT</title>
 
-<style>
-
-body{
-    background:#111;
-    color:white;
-    font-family:Arial;
-    text-align:center;
-    padding:40px;
-}
-
-button{
-
-    padding:15px 30px;
-    font-size:20px;
-    border:none;
-    border-radius:10px;
-    background:#28a745;
-    color:white;
-    cursor:pointer;
-
-}
-
-audio{
-
-    width:100%;
-    max-width:400px;
-    margin-top:20px;
-
-}
-
-</style>
+<link rel="stylesheet" href="css/style.css">
 
 </head>
 
 <body>
 
-<h1>🎵 VENEHIT</h1>
+<div class="contenedor">
 
-<h2>"🎵 Escucha la canción"</h2>
+    <img src="img/logo.png" class="logo-player" alt="VeneHit">
 
-<button id="play">
-▶️ Reproducir
-</button>
+    <p class="subtitulo">
+        🎵 Escucha la canción y adivina el año
+    </p>
 
-<br><br>
+    <button id="play">
+        ▶️ Reproducir
+    </button>
 
-<audio id="audio" controls></audio>
+    <br><br>
+
+    <audio id="audio" controls></audio>
+
+</div>
 
 <script src="js/player.js"></script>
 

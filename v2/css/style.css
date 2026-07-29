@@ -12,13 +12,13 @@ body{
 
 .logo{
 
-    width:260px;
-    max-width:90%;
+    width:220px;
+    max-width:85%;
     height:auto;
 
     display:block;
 
-    margin:0 auto 20px auto;
+    margin:0 auto 20px;
 
 }
 
@@ -182,5 +182,40 @@ button:hover{
 .animacionTexto{
 
     animation:aparecer .45s ease;
+
+}
+
+/* ---------- Player ---------- */
+
+.logo-player{
+
+    width:220px;
+    max-width:80%;
+    height:auto;
+    display:block;
+    margin:0 auto 20px;
+
+}
+
+.subtitulo{
+
+    font-size:22px;
+    color:#d8d8d8;
+    margin-bottom:30px;
+
+}
+
+#play{
+
+    background:#28a745;
+    color:white;
+
+}
+
+audio{
+
+    width:100%;
+    max-width:400px;
+    margin-top:20px;
 
 }
